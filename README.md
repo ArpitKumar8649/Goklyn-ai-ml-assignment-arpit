@@ -30,20 +30,18 @@ All tasks follow the structure and requirements provided in the official assignm
 🔹 Task 1 – ML Classification Model (Iris Dataset)
 
 Colab Notebook:
-👉 https://colab.research.google.com/xxxxxxxxxxxx
-(Replace with your link)
+👉 https://colab.research.google.com/drive/1OOFtnxm5XwN5tDHaQzHP8ZxcGAssLnQu?usp=sharing
 
 🔹 Task 2 – AI Agent using LangChain + Gemini
 
 Colab Notebook:
-👉 https://colab.research.google.com/xxxxxxxxxxxx
-(Replace with your link)
+👉 https://colab.research.google.com/drive/1g7NihPxgtCU7yPYC5_xxVyoWlgYQQA-f?usp=sharing
 
 🔹 Task 3 – Full Assignment Documentation (PDF)
 
 Google Drive View Link:
-👉 https://drive.google.com/file/d/xxxxxxxxxxxx
-(Replace with your link)
+👉 
+https://drive.google.com/file/d/1gkkNXcSuD9RIsxRGMpk5vuX8dZdTj0ZZ/view?usp=drivesdk
 
 
 ---
@@ -74,7 +72,7 @@ Confusion matrix visualization
 
 ✔ Live Notebook
 
-🔗 (same as Task 1 link above)
+🔗 https://colab.research.google.com/drive/1OOFtnxm5XwN5tDHaQzHP8ZxcGAssLnQu?usp=sharing
 
 
 ---
@@ -111,7 +109,7 @@ User Input → Prompt Template → Gemini Model → Response Parser → Output
 
 ✔ Live Notebook
 
-🔗 (same as Task 2 link above)
+🔗 https://colab.research.google.com/drive/1g7NihPxgtCU7yPYC5_xxVyoWlgYQQA-f?usp=sharing
 
 
 ---
@@ -141,7 +139,7 @@ Conclusion
 
 ✔ Full PDF
 
-🔗 (same as Task 3 link above)
+🔗 https://drive.google.com/file/d/1gkkNXcSuD9RIsxRGMpk5vuX8dZdTj0ZZ/view?usp=drivesdk
 
 
 ---
